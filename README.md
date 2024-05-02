@@ -15,6 +15,9 @@ Data Retrieval: Fetching data from the database to dynamically update the dashbo
 
 ## Project By
 NAME : Mariyasuriya
+
 LinkedIn:https://www.linkedin.com/in/mariyasuriya-anandraj/
+
 BATCH: MDTE_04
+
 DOMAIN : DATA SCIENCE
